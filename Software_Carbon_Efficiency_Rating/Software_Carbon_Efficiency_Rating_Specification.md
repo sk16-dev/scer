@@ -330,6 +330,8 @@ Different industries may require different ways of benchmarking and rating syste
 
 Supporting documents, example calculations, and reporting templates.
 
+[SCER GSF Label Drafts.pptx](https://github.com/Green-Software-Foundation/scer/files/14512588/SCER.GSF.Label.Drafts.pptx)
+
 ---
 
 ### 6. References
